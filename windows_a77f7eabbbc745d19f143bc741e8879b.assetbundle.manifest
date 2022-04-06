@@ -1,0 +1,49 @@
+ManifestFileVersion: 0
+CRC: 1962309073
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fa4cf7c5988f9420e7c4edac9cea96e6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 04e630aa78f188ceafa0502be04a74ec
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfcb4fd1043cf914da33f400e2673d98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e476f1400f6c384faab677baa7953c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c873f45528fe66b4498db21d4fbba12a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd0e3e690de6dc041841b18889ae3a29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 332e0c2a4f794d5478e7ce85f08dc1c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4fc75bfbc87f2ac4695bfcc03f402221, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8232827cac6cf9842832a51587cd5a67, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Mod examples/Simple decorations.asset
+Dependencies: []
